@@ -2,7 +2,8 @@
 
 ![Key](/src/main/resources/images/pluginIcon.png?raw=true)
 
-Tribute to Taylor Jones since he wrote this.
+## Author
+Tribute to Taylor Jones since he wrote this. And full credit should go to him.
 
 Enables token-based authentication to the Stash REST API for individual users. Available on the [Atlassian Marketplace](https://marketplace.atlassian.com/plugins/com.thundermoose.plugins.stash-token-auth) now.
 
